@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Laravel, TypeScript, Redux
+🌱 I’m a Web- and Software-Developer with focus on PHP and Node.js
 
 
 ## 🌐 Socials:
