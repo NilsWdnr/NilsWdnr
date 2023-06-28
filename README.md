@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a Web- and Software-Developer with focus on PHP and Node.js
+🌱 I’m a Web-Developer with focus on PHP and Node.js
 
 
 ## 🌐 Socials:
