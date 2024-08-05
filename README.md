@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a Web-Developer with focus on PHP and Node.js  
+🌱 I’m a Web-Developer with focus on PHP
 📚 Currently I'm obsessed with backend development and finding innovative ways to create backend architectures
 
 
